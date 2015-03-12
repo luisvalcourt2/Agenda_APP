@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Agenda - Log In</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_Title">Welcome to my Personal Agenda</string>
+    <string name="user_Title">Username</string>
+    <string name="password_Title">Password</string>
+    <string name="second_Title">Please enter the Username and Password to Access the Agenda.</string>
+    <string name="title_activity_agenda_">Agenda_Activity</string>
+    <string name="title_agenda">Agenda 2015-2016</string>
+    <string name="subject_agenda">Subject: </string>
+    <string name="message_agenda">Information</string>
+
+</resources>
